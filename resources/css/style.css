@@ -125,7 +125,7 @@ h1 {
   text-align: center;
   margin-top: 1.5rem;
   border-radius: 2rem;
-  box-shadow: 0 0.5rem 0.5rem grey;
+  box-shadow: 0 0.25rem 0.5rem grey;
 }
 
 .landing a:hover {
@@ -363,7 +363,7 @@ h1 {
 
   .course-content h3 {
     font-size: 1.5rem;
-    box-shadow: 0 0.15em 0.5rem grey;
+    box-shadow: 0 0.15rem 0.5rem grey;
     background: linear-gradient(to right, aquamarine 20%, peachpuff);
     padding: 1rem 1rem;
     margin-left: 0;
